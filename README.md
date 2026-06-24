@@ -54,6 +54,9 @@ Aqui estão alguns dos meus melhores projetos reais. Sinta-se à vontade para ex
 
 Se você tem um projeto em mente, precisa de um freelancer de back-end ou apenas quer trocar uma ideia, me chame:
 
-- 💼 **Workana:** [Meu Perfil na Workana](https://www.workana.com/freelancer/fc883473bfd39ccb425289dfad092b39)
-- 👔 **LinkedIn:** [Matheus Silva](www.linkedin.com/in/matheuss-ilva)
-- ✉️ **E-mail:** [meu-email@gmail.com](msilvarodrigues011@gmail.com)
+- 💼 **Workana:** (https://www.workana.com/freelancer/fc883473bfd39ccb425289dfad092b39)
+- 👔 **LinkedIn:** (www.linkedin.com/in/matheuss-ilva)
+- ✉️ **E-mail:** (msilvarodrigues011@gmail.com)
+  
+
+
